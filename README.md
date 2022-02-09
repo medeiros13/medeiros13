@@ -7,7 +7,7 @@
 <h3>About me:</h3>
 
 * I'm currently working with .NET Core; 🖥️
-* I'm currently learning GraphQL, unit tests, integration tests, and TDD (Test-Driven Development);📝
+* I'm currently studying about the different C# Collections and when should we use which one of them
 * Feel free to take a look on my repos, and ask me about anything, I'm here to help; 💬
 
 <h3>Technologies I'm working on:<h3>

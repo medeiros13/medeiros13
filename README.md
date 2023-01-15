@@ -2,12 +2,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/medeiros13?style=social)
 
-<p><em>Back end developer at <a href="https://stefanini.com/en">Stefanini</a>.💻</em></p>
+<p><em>.NET developer at <a href="https://www.pasqualisolution.com.br/">Pasquali Solution</a>.💻</em></p>
 <p><em>Computer Science student at <a href="https://www.unilasalle.edu.br/canoas">LaSalle University</a>.📚</em></p>
 <h3>About me:</h3>
 
 * I'm currently working with .NET Core; 🖥️
-* I'm currently studying about the different C# Collections and when should we use which one of them;
+* I'm currently studying HTPP and HTTPS protocols and how the communication between servers works;
 * Feel free to take a look on my repos, and ask me about anything, I'm here to help; 💬
 
 <h3>Technologies I'm working on:<h3>

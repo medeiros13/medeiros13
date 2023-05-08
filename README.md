@@ -6,8 +6,7 @@
 <p><em>Computer Science student at <a href="https://www.unilasalle.edu.br/canoas">LaSalle University</a>.📚</em></p>
 <h3>About me:</h3>
 
-* I'm currently working with .NET Core; 🖥️
-* I'm currently studying HTPP and HTTPS protocols and how the communication between servers works;
+* I'm currently improving myself in back end development with .NET and starting with the front end development so I can achieve my goal to become a full stack developer;
 * Feel free to take a look on my repos, and ask me about anything, I'm here to help; 💬
 
 <h3>You can reach me at:<h3>

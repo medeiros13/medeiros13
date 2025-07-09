@@ -15,5 +15,4 @@ With +4 years of software development experience, dealing with a range of techno
 <h3>You can reach me at:</h3>  
 <a href="https://www.linkedin.com/in/medeiros-gabriel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link to my Linkedin"></a>
 <a href="mailto:gabrielmedeiros13122000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="link to my Gmail"></a>
-<a href="https://wa.me/+5551995814235"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Link to my Whatsapp"></a>
-<a href="https://www.instagram.com/medeirinhoss/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Link to my Instagram"></a>
+<a href="https://wa.me/+5551996307725"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Link to my Whatsapp"></a>

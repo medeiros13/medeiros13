@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/medeiros13?style=social)
 
-<p><em>Full stack developer at <a href="https://tech.adp.com/en/">ADP Brazil Labs</a>.💻</em></p>
+<p><em>Back end developer at <a href="https://zipdev.com/">Zipdev</a>.💻</em></p>
 <p><em>Computer Science student at <a href="https://www.cruzeirodosulvirtual.com.br/">Cruzeiro do Sul Virtual</a>.📚</em></p>
 <h3>About me:</h3>
 <p style="text-align: justify;text-justify: inter-word;"> 

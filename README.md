@@ -2,14 +2,11 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/medeiros13?style=social)
 
-<p><em>Back end developer at <a href="https://zipdev.com/">Zipdev</a>.💻</em></p>
+<p><em>Senior Software Engineer at <a href="https://zipdev.com/">Zipdev</a>.💻</em></p>
 <p><em>Computer Science student at <a href="https://www.cruzeirodosulvirtual.com.br/">Cruzeiro do Sul Virtual</a>.📚</em></p>
 <h3>About me:</h3>
 <p style="text-align: justify;text-justify: inter-word;"> 
-Hello! I'm Gabriel. I'm a versatile problem solver with a facility to learn at a fast pace who is constantly working to become a better version of myself.
-With +4 years of software development experience, dealing with a range of technological solutions, such as desktop applications, mobile apps, websites, REST APIs and microservices. Working with awesome teams, I contributed to several projects which resulted in revenue increases, cost reduction and efficient use of technological resources.
-</p>
-<p style="text-align: justify;text-justify: inter-word;"> During my free time, I enjoy various activities, such as being accompanied by my loved ones, cooking and trying new recipes, being in contact with nature, traveling and exploring new places, reading and watching my soccer team games in the stadium. I'm always open to new connections and chats for knowledge exchange, discussing new opportunities, recommending places to visit or even talking about soccer.
+Senior Software Engineer with 7+ years of experience building data-intensive .NET systems, REST APIs, and microservices across Azure and AWS. Built backend capabilities for automotive analytics and global HCM platforms, including 7 interactive reports for a platform with 2,280 dealership customers. Strong track record in performance optimization, reducing peak memory usage of a daily Kubernetes worker by 52% (31 GiB to 15 GiB) and API response times by ~40%.
 </p>
 
 <h3>You can reach me at:</h3>  
